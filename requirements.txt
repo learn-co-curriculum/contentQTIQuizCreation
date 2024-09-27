@@ -1,0 +1,13 @@
+bespon==0.7.0
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+importlib_metadata==8.5.0
+Markdown==3.7
+pandoc==2.4
+plumbum==1.8.3
+ply==3.11
+requests==2.32.3
+text2qti==0.7.1
+urllib3==2.2.3
+zipp==3.20.2
