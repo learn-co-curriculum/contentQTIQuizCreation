@@ -20,8 +20,8 @@ cd quiz_generator
 
 2. Clone the GitHub repository into the directory:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/learn-co-curriculum/contentQTIQuizCreation.git
+cd contentQTIQuizCreation
 ```
 ### Step 2: Prepare a Quiz Template
 Before running the script, you need to create a quiz template in a text file. This file should follow the format provided in the `New Quiz Template(1).txt` file in the repository.
