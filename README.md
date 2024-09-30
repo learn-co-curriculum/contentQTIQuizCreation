@@ -52,9 +52,16 @@ The script will:
 
 ### Step 4: Import the QTI File to Canvas Item Banks
 1. Go to the Canvas course where you want to add the quiz.
-2. Navigate to Item Banks and click + Bank.
+2. Navigate to **Item Banks** and click **+ Bank**.
 3. Give the item bank a name and share it with the course.
-4. Click Create Bank.
+4. Click **Create Bank**.
+5. After creating the item bank, click the three dots at the top of the page and select **Import Content**.
+6. Navigate to the `contentQTIQuizCreation` folder (the folder you created earlier) and attach the correct zip file. This will import all the questions into the item bank.
+7. Each question's title will represent the **Learning Objective (LO)**. To attach the LO as metadata:
+   * Open each question.
+   * Copy the question title (which is the LO).
+   * Scroll to the bottom of the question editing screen and find the **Tags and Metadata** section.
+   * Paste the LO into the **Tags and Metadata** section and click Done to save the changes.
 
 ### Step 5: Associate the Quiz with the Item Bank
 1. After the quiz is created by the script, go to the quiz in Canvas.
