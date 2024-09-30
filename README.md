@@ -64,7 +64,7 @@ The script will:
    * Paste the LO into the **Tags and Metadata** section and click Done to save the changes.
 
 ### Step 5: Associate the Quiz with the Item Bank
-1. After the quiz is created by the script, go to the quiz in Canvas.
+1. After the quiz is created by the script, go to the quiz in Canvas and click **Build**.
 2. Click Item Banks and select the item bank you just created.
 3. Press the + All/Random button to add all questions to the quiz.
 4. Edit the item bank quiz questions to choose 15 random questions for the quiz.
