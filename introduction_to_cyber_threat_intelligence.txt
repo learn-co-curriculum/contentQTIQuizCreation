@@ -1,0 +1,95 @@
+Quiz title: Introduction to Cyber Threat Intelligence
+
+Title: Identifying Cyber Threat Intelligence (CTI) and its role in cybersecurity
+1. What is the primary goal of Cyber Threat Intelligence (CTI)?
+a) To prevent all cyber-attacks  
+... Feedback: While preventing attacks is ideal, the primary goal of CTI is to gather and analyze intelligence about threats, not necessarily to prevent every single attack.  
+*b) To collect, analyze, and disseminate information about potential cyber threats  
+... Feedback: Correct! CTI focuses on understanding potential threats to improve cybersecurity measures.  
+c) To create new cybersecurity tools  
+... Feedback: Creating new tools is important for security, but CTI specifically involves collecting and analyzing threat data.  
+d) To perform system maintenance  
+... Feedback: System maintenance is important but is unrelated to the CTI process.  
+
+2. Which of the following is NOT a source of cyber threat intelligence?
+a) Security logs  
+... Feedback: Security logs are a critical internal source of cyber threat intelligence.  
+b) Threat feeds  
+... Feedback: Threat feeds provide essential information about emerging threats and indicators of compromise (IOCs).  
+*c) System user manuals  
+... Feedback: Correct! User manuals provide information on system use, but they do not inform threat intelligence efforts.  
+d) Open-source intelligence (OSINT)  
+... Feedback: OSINT is a valuable source of publicly available threat intelligence data.  
+
+Title: Identifying the primary objectives of CTI
+3. Which of the following best describes one of the primary objectives of CTI?
+a) To generate revenue through cyber security services  
+... Feedback: While cybersecurity services can be profitable, this is not a core objective of CTI.  
+*b) To enhance threat detection and improve incident response  
+... Feedback: Correct! One of the primary objectives of CTI is to help organizations detect threats earlier and respond more effectively.  
+c) To report threats to law enforcement agencies  
+... Feedback: Reporting threats to law enforcement can be an outcome of CTI, but it is not a primary objective.  
+d) To create a better marketing strategy for cybersecurity products  
+... Feedback: Marketing strategies are not a goal of CTI.  
+
+Title: Identifying attack surfaces
+4.  `Santa` lives at the North Pole
+... Feedback: CTI prioritizes relevant threats, informs risk management, and helps organizations defend against evolving threats. Ignoring potential risks would not be a recommended strategy.
+*   Santa
+*   Santa Claus
+*   Father Christmas
+*   Saint Nicholas
+*   Saint Nick
+
+Title: Identifying attack surface areas and security controls
+5. Which of the following is a common attack surface for threat actors?
+a) Financial reports  
+... Feedback: Financial reports may contain valuable information, but they are not a typical attack surface.  
+*b) Network infrastructure  
+... Feedback: Correct! Network infrastructure, including routers and switches, is often targeted by threat actors.  
+c) Corporate event calendars  
+... Feedback: While event calendars contain sensitive information, they are not commonly targeted as an attack surface.  
+d) Product marketing documents  
+... Feedback: Product marketing documents are unlikely to be directly targeted by cyber threat actors.
+
+Title: Identifying attack surface areas and security controls
+6. Threat actors may exploit which of the following vulnerabilities?
+[*] Unpatched software vulnerabilities  
+... Feedback: Correct! Unpatched vulnerabilities are a common entry point for attackers.  
+[*] Weak access controls  
+... Feedback: Correct! Weak access controls can make it easier for attackers to gain unauthorized access to systems.  
+[*] Misconfigurations in systems  
+... Feedback: Correct! Misconfigurations leave systems open to attacks.  
+
+Title: Identifying various sources of cyber threat intelligence data
+7. Which of the following is an internal source of cyber threat intelligence?
+a) Threat intelligence feeds  
+... Feedback: Threat intelligence feeds are generally provided by third-party vendors and are considered external sources.  
+*b) Security Information and Event Management (SIEM) systems  
+... Feedback: Correct! SIEM systems collect and analyze security logs, providing valuable internal threat intelligence.  
+c) Industry reports  
+... Feedback: Industry reports are typically external sources of cyber threat intelligence.  
+d) Open-source intelligence (OSINT)  
+... Feedback: OSINT is also an external source of intelligence data.  
+
+Title: Identifying various sources of cyber threat intelligence data
+8. What type of intelligence can organizations gather using OSINT (Open-Source Intelligence)?
+a) Data from internal system logs  
+... Feedback: OSINT gathers information from publicly available sources, not internal system logs.  
+*b) Data from publicly available websites and forums  
+... Feedback: Correct! OSINT pulls data from open sources like websites and social media.  
+c) Information from paid threat intelligence services  
+... Feedback: Paid services are not part of OSINT.  
+d) Internal threat analysis reports  
+... Feedback: Internal reports are not considered OSINT.  
+
+Title: Application of CTI in cybersecurity strategies
+9. How does cyber threat intelligence improve an organization's incident response capabilities?
+a) By automatically blocking all future threats  
+... Feedback: CTI helps organizations anticipate and understand threats, but it cannot block all threats automatically.  
+*b) By providing context and early warnings about potential attacks  
+... Feedback: Correct! CTI enhances incident response by giving organizations context and advance warnings, helping them prepare.  
+c) By eliminating the need for manual threat analysis  
+... Feedback: Manual analysis remains important, although CTI automates some processes.  
+d) By making security teams unnecessary  
+... Feedback: Security teams are essential to implementing CTI effectively.

@@ -1,3 +1,53 @@
-﻿3. 2+3 is 5.
+﻿Quiz title: Title here
+Quiz description: This is the quiz description.
+
+1. What is 3*2?
++   Correct!
+-   You used the wrong operation.
+*a) 6
+b) 1
+c) 5
+
+
+Title: An addition question
+Points: 2
+2.  What is 2+3?
+... General question feedback.
++   Feedback for correct answer.
+-   Feedback for incorrect answer.
+a)  6
+... Feedback for this particular answer.
+b)  1
+... Feedback for this particular answer.
+*c) 5
+... Feedback for this particular answer.
+
+3. 2+3 is 5.
 *a) True
 b) False
+
+%multiple answer
+4. Which of the following are dinosaurs?
+[ ] Woolly mammoth
+[*] Tyrannosaurus rex
+[*] Triceratops
+[ ] Smilodon fatalis
+
+%Essay - use the underscores after to connotate an essay question
+5. Write an essay.
+____
+
+%fill in the blank - place all accepted answers after a *
+6.  Who lives at the North Pole?
+*   Santa
+*   Santa Claus
+*   Father Christmas
+*   Saint Nicholas
+*   Saint Nick
+
+7.  A question paragraph that is long enough to wrap onto a second line.
+    The second line must be indented to match up with the start of the
+    paragraph text on the first line.
+
+    Another paragraph.
+____
